@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/jeeyoon-lim/jeeyoon-lim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Actions speak louder than words! ... But words also help.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This Website
 
-### Markdown
+This website serves as a personal passion project and time capsule. 
+"Life is a marathon" lmao
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Baby pic!](https://photos.google.com/
+https://lh3.googleusercontent.com/hhTtv3q0GKqFLAXzZawM2MN7gvll7WsDMci60Q_EkrQZgpL-9yZqSOQuPVOzTOosukFqQUyZ8pHZ9pBhDF7m8YTFQiHKzuA2P3SX9oWotITla4G-OS1RK_IqwVuqniNPG3Vp6PAzsrtAZlNujROp0HR5c5G9-Y0Q9qtUR5gzvwuldpxjmUGQwgFmR5dDTYnhI81ImF9WjKlJgQ1ZFJFcj8IqqmcKFzCayrRV-HEYzri3XssCJD7t7PwU_bhztC2HkyW51Yepy8yYIydPDGyPpA6Tgy_V8aHXOgw5wvvXfB39iblvJHRg29DxjB7CckoX8CsuGsiZOhnqKJactho7cB-zt5IdgSt4plO6FFmf1xSQZ0p8dzYu-4TAbYdkHeTvCxb7WJNKgjkFKuoycyAtskYH5NwXagxJJdhJzl9gR_GE1_YYOIrixhU8a98xCqmBNnRyLPCzN6FacT7pMSNluirHjGxbvWZGtbFSQ8C_nrRpz0lOcQ-RDnVTxd4moO9jmfNteCu_ZT_jqkRMVvoZCBroBBuWwjFz_HOG_AKzvwwNZpRDPDqnliGEd4IZqFoOsZ5U2iufY0mtcj7qhToXujBvizW7msWrxlzJb5dAVjVf5CX3t4yzAFgUpWOx6UtS3GugOw1NRSlIXJkAE7_pdSRFUAz9YCQh2Orc59CT-lLlhBxf3SRmaDI-lKY0QGE=w1068-h1424-no)
 
-```markdown
-Syntax highlighted code block
+### Contact Info
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeeyoon-lim/jeeyoon-lim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: jlim0430@gmail.com
+Instagram: @jeeyoonloompa
