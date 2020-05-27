@@ -11,4 +11,4 @@ Me myself & I
 ### Contact Info
 
 Email: jlim0430@gmail.com
-Instagram: @jeeyoonloompa
+/nInstagram: @jeeyoonloompa
