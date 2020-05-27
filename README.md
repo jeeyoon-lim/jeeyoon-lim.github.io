@@ -1,6 +1,6 @@
 ## About Me
 
-Actions speak louder than words! ... But words also help.
+Me myself & I
 
 ### This Website
 
