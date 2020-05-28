@@ -1,6 +1,6 @@
 layout: page  
 title: "Blogs"  
-permalink: https://octocat.github.io/Blog-posts.md
+permalink: https://jeeyoon-lim.github.io/Blog-posts.md
 
 ## Mic check one two, one two
 
