@@ -6,7 +6,7 @@ Me myself & I
 
 "Life is a marathon" lmao
 
-![baby pic](IMG_1795.JPG) <width = 100x>  
+<img src="IMG_1795.JPG" width="100">
 
 ### Contact Info
 
