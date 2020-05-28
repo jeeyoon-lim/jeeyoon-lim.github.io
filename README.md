@@ -6,7 +6,7 @@ Me myself & I
 
 "Life is a marathon" lmao
 
-![baby pic](https://github.com/jeeyoon-lim/jeeyoon-lim.github.io/blob/master/image.jpg?raw=true)
+![baby pic](IMG_1795.JPG)
 
 ### Contact Info
 
