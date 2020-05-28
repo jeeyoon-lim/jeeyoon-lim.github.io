@@ -1,6 +1,7 @@
-layout: page
-title: "Blog Posts"
-permalink: jeeyoon.lim.github.io/Blog-posts
+---
+layout: post
+title: Blog Posts
+---
 
 ## Mic check one two, one two
 
