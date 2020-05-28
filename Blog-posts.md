@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Blog Posts
-theme: dinky
 ---
 
 ## Mic check one two, one two
